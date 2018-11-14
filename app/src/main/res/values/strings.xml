@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Tercera entrega</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Libreria App</string>
+    <string name="nav_header_subtitle">Carlos D.gil garcia</string>
+    <string name="nav_headgiter_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secciones">Segunda Actividad</string>
+    <string name="section_format">Bienvenido a la app</string>
+    <string name="ToolsActivity">Bienvenido a las herramientas</string>
+    <string name="GalleryActivity">Bienvenido a la Galeria</string>
+    <string name="GalleryText">Escribe algo!!!</string>
+
+
+    <!-- main_menu-->
+    <string name="lanzador">Lanzador</string>
+    <string name="lanzador2">Lanzador2</string>
+    <string name="lanzador3">Lanzador3</string>
+    <string name="rojito">Rojito</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bienvenido a la APP</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_tools">ToolsActivity</string>
+
+
+    <!--  <string name="app_name_libro">PCLibros</string>-->
+
+    <string name="title_activity_mainLibro">Galeria Libros</string>
+
+    <string name="sin_datos">Sin datos.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="progress_cargando_datos">Cargando datos</string>
+    <string name="libro_titulo">Titulo</string>
+    <string name="libro_editorial">Editorial</string>
+    <string name="libro_paginas">Paginas</string>
+
+
+    <string name="campo_requerido">Campo requerido, gracias.</string>
+
+</resources>
